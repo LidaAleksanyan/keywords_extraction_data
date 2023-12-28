@@ -1,6 +1,6 @@
 # Keywords Extraction Data
 
-Welcome to the `keywords_extraction_data` repository! Here, you will find a collection of 10 books written by well-known authors, along with the extracted keyword sets using three different methods: Luhn, YAKE, and our custom method. Also you can find benchmark results of mentioned 3 methods on well known theses100 dataset taken from [here](https://github.com/LIAAD/KeywordExtractor-Datasets) in the theses100_results.csv file.
+Welcome to the `keywords_extraction_data` repository! Here, you will find a collection of 10 books written by well-known authors, along with the extracted keyword sets using three different methods: Luhn, YAKE, and our custom method. Also you can find benchmark results of mentioned 3 methods on well known theses100 dataset taken from [here](https://github.com/LIAAD/KeywordExtractor-Datasets) in the theses100_results.csv file in the results folder.
 
 ## Contents
 
